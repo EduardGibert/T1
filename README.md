@@ -108,9 +108,6 @@ Proves i exercicis a fer i entregar
 
 **Comentari:** Al cambiar la fx a 4kHz veiem com la señal es torna en triangular de manera que representa unes pujades i bajades constants.
 
-El gràfic és:
-<img src="img/1.png" width="480" align="center">
-
 2. Modifica el programa per considerar com a senyal a analitzar el senyal del fitxer wav que has creat 
     (`x_r, fm = sf.read('nom_fitxer.wav')`).
 
