@@ -54,16 +54,3 @@ plt.xlabel('Index k')                 # Etiqueta de l'eix d'abscisses
 plt.ylabel('$\phi_x[k]$')             # Etiqueta de la fase en Latex
 plt.show()                            # Per mostrar els grafics
 
-##Exercici 3
-
-##Modifiquem el programa  per representar el mòdul de la Transformada de Fourier com ens diu l'enunciat:
-import math as m
-
-#Mòdul en dB:
-X_dB = 20*m.log10(abs(X) / max(abs(X)))
-kk = fm/2 * np.arange(N)
-
-plt.figure(2)                         # Nova figura
-plt.plot(kk,X_dB)                    # Representació del mòdul de la transformada
-plt.title(f'Transformada del senyal de Ls={Ls} mostres amb DFT de N={N}')   # Etiqueta del títol
-plt.ylabel('|X[k]| en dB')                  # Etiqueta de mòdul
