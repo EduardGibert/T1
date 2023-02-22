@@ -135,7 +135,7 @@ Proves i exercicis a fer i entregar
     - Com pots identificar l'amplitud de la sinusoide a partir de la representació de la transformada?
       Comprova-ho amb el senyal generat.
       
-      **COMENTARI:** Com que dividim per el maxim de la Transformada de Fouier no pdem determinar la amplitud de la sinusoide.
+      **COMENTARI:** Com que dividim per el maxim de la Transformada de Fouier no podem determinar la amplitud de la sinusoide.
 
 > NOTES:
 >
