@@ -122,7 +122,9 @@ Proves i exercicis a fer i entregar
 <img src="img/Figura2.png" width="480" align="center">
 
     - Explica el resultat del apartat anterior. 
-    COMENTARI: Veiem com al tenir una frequencia de 4kHz la transformada te menys mostres que cuan la frequencia es de 440, de manera que deduim que a frequencies baixes hi han mes mostres i en frequencies altes n'hi han menys.
+    COMENTARI: Veiem com al tenir una frequencia de 4kHz la transformada te menys mostres que cuan la frequencia 
+    es de 440, de manera que deduim que a frequencies baixes hi han mes mostres i en frequencies altes
+    n'hi han menys.
  
 
 3. Modifica el programa per representar el mòdul de la Transformada de Fourier en dB i l'eix d'abscisses en el marge de
