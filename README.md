@@ -134,6 +134,7 @@ Proves i exercicis a fer i entregar
 
     - Com pots identificar l'amplitud de la sinusoide a partir de la representació de la transformada?
       Comprova-ho amb el senyal generat.
+      COMENTARI: Com que dividim per el maxim de la Transformada de Fouier no pdem determinar la amplitud de la sinusoide.
 
 > NOTES:
 >
@@ -151,7 +152,7 @@ Proves i exercicis a fer i entregar
     - Freqüència de mostratge.
     - Nombre de mostres de senyal.
     - Tria un segment de senyal de 25ms i insereix una gráfica amb la seva evolució temporal.
-    - Representa la seva transformada en dB en funció de la freqüència, en el marge $f_m\le f\le f_m/2$.
+    - Representa la seva transformada en dB en funció de la freqüència, en el marge $0\le f\le f_m/2$.
     - Quines son les freqüències més importants del segment triat?
 
 
