@@ -106,6 +106,11 @@ Proves i exercicis a fer i entregar
 1. Reprodueix l'exemple fent servir diferents freqüències per la sinusoide. Al menys considera $f_x = 4$ kHz, a banda d'una
     freqüència pròpia en el marge audible. Comenta els resultats.
 
+ - Explica el resultat del apartat anterior. 
+    COMENTARI: Veiem com al tenir una frequencia de 4kHz la transformada te menys mostres que cuan la frequencia 
+    es de 440, de manera que deduim que a frequencies baixes hi han mes mostres i en frequencies altes
+    n'hi han menys.
+ 
     - **Comentari:** Al cambiar la fx a 4kHz veiem com la señal es torna en triangular de manera que representa unes pujades i bajades constants.
 
 2. Modifica el programa per considerar com a senyal a analitzar el senyal del fitxer wav que has creat 
