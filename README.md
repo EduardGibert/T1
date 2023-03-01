@@ -156,7 +156,9 @@ plt.show()
 ```
 <img src="img/Figura2.png" width="480" align="center">
 
-    - **Comentari:** Al cambiar la fx a 4kHz veiem com la señal es torna en triangular de manera que representa unes pujades i bajades constants, podem deduir que en cas de escoltar-ho si li posem una frequencia baixa sonara mes greu  i si li posem una frequencia alta sonara mes agut.
+    - **Comentari:** Al cambiar la fx a 4kHz veiem com la señal es torna en triangular de manera que representa unes pujades i bajades 
+    constants, podem deduir que en cas de escoltar-ho si li posem una frequencia baixa sonara mes greu  i si li posem una frequencia 
+    alta sonara mes agut.
 
     Si mirem la fft veiem com el modul te una pujada en aproximadament 2500 i la fase baixa desde 0 fins arribar aproximadament a -15db.
 
@@ -222,8 +224,9 @@ plt.show()
     es de 440, de manera que deduim que a frequencies baixes hi han mes mostres i en frequencies altes
     n'hi han menys. 
     
-    Veiem que com que les grafiques son iguals en ambdos apartats les conclusions que treuem son les mateixes, pel que fa a la reprensentacio de 
-    5 periodes veiem com el to que obtenim es mes agut. I per el que fa a la fft veiem que el pic es en 2500 i la fase baixa de 0 fins a a -15db.
+    Veiem que com que les grafiques son iguals en ambdos apartats les conclusions que treuem son les mateixes, pel que fa a la 
+    reprensentacio de 5 periodes veiem com el to que obtenim es mes agut. I per el que fa a la fft veiem que el pic es en 2500 
+    i la fase baixa de 0 fins a a -15db.
  
 
 3. Modifica el programa per representar el mòdul de la Transformada de Fourier en dB i l'eix d'abscisses en el marge de
