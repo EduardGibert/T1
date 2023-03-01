@@ -341,6 +341,8 @@ plt.show()
 
 ```
 <img src="img/Figura7.png" width="480" align="center">
+**Ls:** 
+Veiem gracies a 'plt.title(f'Transformada del senyal de Ls={L} mostres amb DFT de N={N}')' que el numero de mostres es de 1102.
 
 **Frequencies mes importants:** 
 Com veiem en la grafica superior, clarament les frequencies mes importants son aquelles on la grafica esta mes activa, de manera
